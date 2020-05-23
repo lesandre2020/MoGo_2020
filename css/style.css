@@ -355,7 +355,7 @@ h4{
 
 .banner{
 	position: relative;
-	background: url(../images/banner-bg.jpg) 50% 50% no-repeat;
+	background: url(../img/banner-bg.jpg) 50% 50% no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
 	overflow: hidden;
