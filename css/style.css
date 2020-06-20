@@ -674,7 +674,7 @@ h4{
 /* feauture */
 .feauture{
 	position: relative;
-	background: url(../images/feauture-bg.jpg) 50% 50% no-repeat;
+	background: url(../img/feauture-bg.jpg) 50% 50% no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
 	text-align: center;
@@ -778,7 +778,7 @@ h4{
 	transform: translate(0, -50%) rotate(0.01deg);
 	width: 22px;
 	height: 12px;
-	background: url(../images/ico-accordeon-arrow-down.svg) no-repeat;
+	background: url(../img/ico-accordeon-arrow-down.svg) no-repeat;
 	-webkit-background-size: 100% auto;
 	background-size: 100% auto;
 	-webkit-transition: all 0.5s;
@@ -901,13 +901,13 @@ h4{
 	z-index: 20;
 }
 .slick-prev{
-	background: url(../images/ico-arrow-prev.svg) 50% 50% no-repeat;
+	background: url(../img/ico-arrow-prev.svg) 50% 50% no-repeat;
 	-webkit-background-size: 100% auto;
 	background-size: 100% auto;
 	left: 2%;
 }
 .slick-next{
-	background: url(../images/ico-arrow-next.svg) 50% 50% no-repeat;
+	background: url(../img/ico-arrow-next.svg) 50% 50% no-repeat;
 	-webkit-background-size: 100% auto;
 	background-size: 100% auto;
 	right: 2%;
@@ -1281,7 +1281,7 @@ h4{
 /* what-people-say */
 .what-people-say{
 	position: relative;
-	background: url(../images/what-people-say-bg.jpg) 50% 50% no-repeat;
+	background: url(../img/what-people-say-bg.jpg) 50% 50% no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
 	overflow: hidden;
@@ -1540,12 +1540,12 @@ h4{
 	overflow: hidden;
 }
 .view-ico{
-	background: url(../images/ico-view.svg) 50% 50% no-repeat;
+	background: url(../img/ico-view.svg) 50% 50% no-repeat;
 	-webkit-background-size: 20px auto;
 	background-size: 20px auto;
 }
 .speech-bubble-ico{
-	background: url(../images/ico-speech-bubble.svg) 50% 50% no-repeat;
+	background: url(../img/ico-speech-bubble.svg) 50% 50% no-repeat;
 	-webkit-background-size: 16px auto;
 	background-size: 16px auto;
 }

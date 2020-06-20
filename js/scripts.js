@@ -107,7 +107,7 @@ $(document).ready(function(){
 				var longtitude = coords_.split(',')[1];
 			}
 			
-		var iconBase = 'images/map-marker.png';
+		var iconBase = 'img/map-marker.png';
 
 		var latlng = new google.maps.LatLng(latitude,longtitude);
 		
